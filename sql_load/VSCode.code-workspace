@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Cube/VSCode"
+		},
+		{
+			"path": "../csv_files"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "postres",
+				"database": "postgres",
+				"username": "postgres"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "sql_course",
+				"database": "sql_course",
+				"username": "postgres"
+			}
+		]
+	}
+}
